@@ -1,0 +1,15 @@
+[submodule "Hands-On-Activity-11"]
+	path = Hands-On-Activity-11
+	url = git@github.com:nyogimi/Hands-On-Activity-11.git
+[submodule "Hands-On-Activity-12"]
+	path = Hands-On-Activity-12
+	url = git@github.com:nyogimi/Hands-On-Activity-12.git
+[submodule "Hands-On-Activity-13"]
+	path = Hands-On-Activity-13
+	url = git@github.com:nyogimi/Hands-On-Activity-13.git
+[submodule "Hands-On-Activity-14"]
+	path = Hands-On-Activity-14
+	url = git@github.com:nyogimi/Hands-On-Activity-14.git
+[submodule "Hands-On-Activity-15"]
+	path = Hands-On-Activity-15
+	url = git@github.com:nyogimi/Hands-On-Activity-15.git
